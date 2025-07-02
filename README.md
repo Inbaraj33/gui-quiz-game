@@ -65,3 +65,9 @@ New-Item data\general.json
 New-Item config\settings.json
 New-Item results\quiz_results.json
 New-Item README.md
+
+git add .
+git commit -m "project structure" 
+git status
+git config --global user.name "Inbaraj33"
+git config --global user.email "inbarajt@gmail.com"
