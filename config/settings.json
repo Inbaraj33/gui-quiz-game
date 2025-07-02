@@ -1,0 +1,8 @@
+
+// Copy this to config/settings.json
+{
+  "default_category": "general",
+  "questions_per_quiz": 10,
+  "time_per_question": 30,
+  "theme": "default"
+}
